@@ -11,7 +11,7 @@
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[подробный процесс работы](https://drive.google.com/file/d/1k2WZD8PWWOYFHrpAJoB2eZw06ID7KnFA/view?usp=sharing)
 
 
 ### Какой кейс решаем?    
